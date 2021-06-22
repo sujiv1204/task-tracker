@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Today",
+      "remainder": true
+    },
+    {
+      "id": 2,
+      "text": "Teachers Appointment",
+      "day": "Tomorrow",
+      "remainder": true
+    },
+    {
+      "text": "Test",
+      "day": "Tomorrow",
+      "remainder": true,
+      "id": 3
+    },
+    {
+      "text": "Test 2",
+      "day": "Tomorrow",
+      "remainder": false,
+      "id": 4
+    }
+  ]
+}
